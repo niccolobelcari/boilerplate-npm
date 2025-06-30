@@ -3,6 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"author": "foobar",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -12,3 +13,4 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
 }
+
