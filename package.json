@@ -1,6 +1,6 @@
 {
-	"author": "Niccolò Belcari",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Niccolò Belcari",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
